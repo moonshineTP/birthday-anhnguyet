@@ -1,5 +1,4 @@
-
-let firstSlideContainer = 
+let firstSlideContainer =
 document.getElementsByClassName("slide--content")[0];
 
 let secondSlideContainer = 
